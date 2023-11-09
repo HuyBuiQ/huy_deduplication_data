@@ -1,0 +1,1405 @@
+[
+    {
+        "id": "rg_72",
+        "name": "Kim-Anh Do",
+        "names": [
+            "Đỗ Kim Anh"
+        ],
+        "entities": [
+            {
+                "name": "MD Anderson Cancer Center",
+                "experiences": "organization"
+            },
+            {
+                "name": "Department of Biostatistics",
+                "experiences": "organization"
+            },
+            {
+                "name": "statistics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Probability Theory",
+                "experiences": "topic"
+            },
+            {
+                "name": "Applied Mathematics",
+                "experiences": "topic"
+            },
+            {
+                "name": "United States",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://faculty.mdanderson.org/profiles/kim-anh_do.html",
+            "https://www.researchgate.net/profile/Kim-Anh-Do"
+        ]
+    },
+    {
+        "id": "rg_73",
+        "name": "Tai D Phan",
+        "names": [
+            "Tai Phan",
+            "Tai D. Phan"
+        ],
+        "entities": [
+            {
+                "name": "University of California, Berkeley",
+                "experiences": "organization"
+            },
+            {
+                "name": "Researcher",
+                "experiences": "profession"
+            },
+            {
+                "name": "magnetic reconnection",
+                "experiences": "topic"
+            },
+            {
+                "name": "Fluid Dynamics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Geophysics",
+                "experiences": "topic"
+            },
+            {
+                "name": "United States",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Tai-Phan-8",
+            "https://www-dev.ssl.berkeley.edu/full-directory/name/tai-phan/"
+        ]
+    },
+    {
+        "id": "rg_75",
+        "name": "Minh Nguyen",
+        "names": [
+            "Minh Tho Nguyen",
+            "Minh Tho"
+        ],
+        "entities": [
+            {
+                "name": "KU Leuven",
+                "experiences": "organization"
+            },
+            {
+                "name": "Đại học Sư phạm Hà Nội",
+                "experiences": "organization"
+            },
+            {
+                "name": " D. Sc.",
+                "experiences": "profession"
+            },
+            {
+                "name": "Ph.D.",
+                "experiences": "profession"
+            },
+            {
+                "name": "chemistry kinetics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Theoretical Chemistry",
+                "experiences": "topic"
+            },
+            {
+                "name": "Physical Chemistry",
+                "experiences": "topic"
+            },
+            {
+                "name": "Belgium",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Minh-Nguyen-166",
+            "https://www.kuleuven.be/wieiswie/en/person/00014440"
+        ]
+    },
+    {
+        "id": "rg_76",
+        "name": "Minh Nguyen",
+        "names": [
+            "Minh H. Nguyen"
+        ],
+        "entities": [
+            {
+                "name": "University of Newcastle",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor (Associate)",
+                "experiences": "profession"
+            },
+            {
+                "name": "Biosystems Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Chemical Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Australia",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.newcastle.edu.au/profile/minh-nguyen",
+            "https://www.researchgate.net/profile/Minh-Nguyen-139"
+        ]
+    },
+    {
+        "id": "rg_77",
+        "name": "Son Pham",
+        "entities": [
+            {
+                "name": "Ho Chi Minh City University of Food Industry",
+                "experiences": "organization"
+            },
+            {
+                "name": "Cell Biology",
+                "experiences": "topic"
+            },
+            {
+                "name": "Molecular Biology",
+                "experiences": "topic"
+            },
+            {
+                "name": "Genetics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Environmental Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Vietnam",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Son-Pham-54"
+        ]
+    },
+    {
+        "id": "rg_78",
+        "name": "Minh Nguyen",
+        "names": [
+            "Minh Tho Nguyen",
+            "Minh Tho"
+        ],
+        "entities": [
+            {
+                "name": "KU Leuven",
+                "experiences": "organization"
+            },
+            {
+                "name": "Đại học Sư phạm Hà Nội",
+                "experiences": "organization"
+            },
+            {
+                "name": " D. Sc.",
+                "experiences": "profession"
+            },
+            {
+                "name": "Ph.D.",
+                "experiences": "profession"
+            },
+            {
+                "name": "chemistry kinetics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Theoretical Chemistry",
+                "experiences": "topic"
+            },
+            {
+                "name": "Physical Chemistry",
+                "experiences": "topic"
+            },
+            {
+                "name": "Belgium",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Minh-Nguyen-166",
+            "https://www.kuleuven.be/wieiswie/en/person/00014440"
+        ]
+    },
+    {
+        "id": "rg_79",
+        "name": "Pham Viet Hung",
+        "entities": [
+            {
+                "name": "Centre for Natural Resources and Environmental Studies (CRES)",
+                "experiences": "organization"
+            },
+            {
+                "name": "Master of Science",
+                "experiences": "profession"
+            },
+            {
+                "name": "Ecology",
+                "experiences": "topic"
+            },
+            {
+                "name": "Vietnam",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Pham_Viet_Hung2"
+        ]
+    },
+    {
+        "id": "rg_80",
+        "name": "Frederic Nguyen Van Dau",
+        "names": [
+            "Frederic Nguyen-Van-Dau"
+        ],
+        "entities": [
+            {
+                "name": "French National Centre for Scientific Research",
+                "experiences": "organization"
+            },
+            {
+                "name": "Solid State Physics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Materials Physics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Materials Science",
+                "experiences": "topic"
+            },
+            {
+                "name": "France",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Frederic-Nguyen-Van-Dau"
+        ]
+    },
+    {
+        "id": "rg_82",
+        "name": "Frederic Nguyen Van Dau",
+        "names": [
+            "Frederic Nguyen-Van-Dau"
+        ],
+        "entities": [
+            {
+                "name": "French National Centre for Scientific Research",
+                "experiences": "organization"
+            },
+            {
+                "name": "Solid State Physics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Materials Physics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Materials Science",
+                "experiences": "topic"
+            },
+            {
+                "name": "France",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Frederic-Nguyen-Van-Dau"
+        ]
+    },
+    {
+        "id": "rg_83",
+        "name": "Pham Viet Hung",
+        "entities": [
+            {
+                "name": "Centre for Natural Resources and Environmental Studies (CRES)",
+                "experiences": "organization"
+            },
+            {
+                "name": "Master of Science",
+                "experiences": "profession"
+            },
+            {
+                "name": "Ecology",
+                "experiences": "topic"
+            },
+            {
+                "name": "Vietnam",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Pham_Viet_Hung2"
+        ]
+    },
+    {
+        "id": "rg_86",
+        "name": "Son Pham",
+        "entities": [
+            {
+                "name": "Ho Chi Minh City University of Food Industry",
+                "experiences": "organization"
+            },
+            {
+                "name": "Cell Biology",
+                "experiences": "topic"
+            },
+            {
+                "name": "Molecular Biology",
+                "experiences": "topic"
+            },
+            {
+                "name": "Genetics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Environmental Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Vietnam",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Son-Pham-54"
+        ]
+    },
+    {
+        "id": "rg_91",
+        "name": "Nhan Phan-Thien",
+        "entities": [
+            {
+                "name": " National University of Singapore",
+                "experiences": "organization"
+            },
+            {
+                "name": "University of Sydney",
+                "experiences": "organization"
+            },
+            {
+                "name": "BE (1st Hons) PhD (Sydney)",
+                "experiences": "profession"
+            },
+            {
+                "name": "professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Mechanical Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Singapore",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Nhan-Phan-Thien"
+        ]
+    },
+    {
+        "id": "rg_92",
+        "name": "H. Nguyen-Xuan",
+        "entities": [
+            {
+                "name": "HUTECH University",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Managing Director",
+                "experiences": "profession"
+            },
+            {
+                "name": "Manufacturing Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Artificial Intelligence",
+                "experiences": "topic"
+            },
+            {
+                "name": "Applied Mathematics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Structural Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Biomedical Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Vietnam",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/H-Nguyen-Xuan"
+        ]
+    },
+    {
+        "id": "rg_93",
+        "name": "Nhan Phan-Thien",
+        "entities": [
+            {
+                "name": " National University of Singapore",
+                "experiences": "organization"
+            },
+            {
+                "name": "University of Sydney",
+                "experiences": "organization"
+            },
+            {
+                "name": "BE (1st Hons) PhD (Sydney)",
+                "experiences": "profession"
+            },
+            {
+                "name": "professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Mechanical Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Singapore",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Nhan-Phan-Thien"
+        ]
+    },
+    {
+        "id": "rg_94",
+        "name": "Huu Phuc Nguyen",
+        "entities": [
+            {
+                "name": "Ruhr-Universität Bochum",
+                "experiences": "organization"
+            },
+            {
+                "name": "Director",
+                "experiences": "profession"
+            },
+            {
+                "name": "MD",
+                "experiences": "profession"
+            },
+            {
+                "name": "Cellular Neuroscience",
+                "experiences": "topic"
+            },
+            {
+                "name": "Neurodegenerative diseases",
+                "experiences": "topic"
+            },
+            {
+                "name": "Tuebingen, Germany",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Huu-Phuc-Nguyen"
+        ]
+    },
+    {
+        "id": "rg_95",
+        "name": "Nguyen T. K. Thanh",
+        "entities": [
+            {
+                "name": "University College London",
+                "experiences": "organization"
+            },
+            {
+                "name": "nanotechnology",
+                "experiences": "topic"
+            },
+            {
+                "name": "United Kingdom",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Nguyen-Thanh-12"
+        ]
+    },
+    {
+        "id": "rg_96",
+        "name": "Quyen G To",
+        "entities": [
+            {
+                "name": "School of Health, Medical and Applied Sciences, Central Queensland University",
+                "experiences": "organization"
+            },
+            {
+                "name": "Ph.D",
+                "experiences": "profession"
+            },
+            {
+                "name": "PostDoc Position",
+                "experiences": "profession"
+            },
+            {
+                "name": "Public Health",
+                "experiences": "topic"
+            },
+            {
+                "name": "Epidemiology",
+                "experiences": "topic"
+            },
+            {
+                "name": "Australia",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Quyen-To"
+        ]
+    },
+    {
+        "id": "rg_98",
+        "name": "H. Nguyen-Xuan",
+        "entities": [
+            {
+                "name": "HUTECH University",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Managing Director",
+                "experiences": "profession"
+            },
+            {
+                "name": "Manufacturing Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Artificial Intelligence",
+                "experiences": "topic"
+            },
+            {
+                "name": "Applied Mathematics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Structural Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Biomedical Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Vietnam",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/H-Nguyen-Xuan"
+        ]
+    },
+    {
+        "id": "rg_100",
+        "name": "Cao Thang Dinh",
+        "entities": [
+            {
+                "name": "Queen's University",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor (Assistant)",
+                "experiences": "profession"
+            },
+            {
+                "name": "University of Toronto",
+                "experiences": "organization"
+            },
+            {
+                "name": "PostDoc Position",
+                "experiences": "profession"
+            },
+            {
+                "name": "PhD",
+                "experiences": "profession"
+            },
+            {
+                "name": "catalysis",
+                "experiences": "topic"
+            },
+            {
+                "name": "Solid State Physics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Materials Science",
+                "experiences": "topic"
+            },
+            {
+                "name": "photochemistry",
+                "experiences": "topic"
+            },
+            {
+                "name": "Materials Chemistry",
+                "experiences": "topic"
+            },
+            {
+                "name": "Canada",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Cao-Thang-Dinh"
+        ]
+    },
+    {
+        "id": "rg_101",
+        "name": "Anh Tuan Phan",
+        "entities": [
+            {
+                "name": "Nanyang Technological University",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Singapore",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Anh-Tuan-Phan"
+        ]
+    },
+    {
+        "id": "rg_102",
+        "name": "Nguyen T. K. Thanh",
+        "entities": [
+            {
+                "name": "University College London",
+                "experiences": "organization"
+            },
+            {
+                "name": "nanotechnology",
+                "experiences": "topic"
+            },
+            {
+                "name": "United Kingdom",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Nguyen-Thanh-12"
+        ]
+    },
+    {
+        "id": "rg_103",
+        "name": "Cuong Pham-Huu",
+        "entities": [
+            {
+                "name": "University of Strasbourg",
+                "experiences": "organization"
+            },
+            {
+                "name": "Institute of Chemistry and Processes for Energy, Environment and Health",
+                "experiences": "organization"
+            },
+            {
+                "name": "BlackLeaf SAS",
+                "experiences": "organization"
+            },
+            {
+                "name": "CNRS",
+                "experiences": "organization"
+            },
+            {
+                "name": "ICPEES",
+                "experiences": "organization"
+            },
+            {
+                "name": "Doctor of Philosophy",
+                "experiences": "profession"
+            },
+            {
+                "name": "Managing Director",
+                "experiences": "profession"
+            },
+            {
+                "name": "Catalysis",
+                "experiences": "topic"
+            },
+            {
+                "name": "Environmental Chemistry",
+                "experiences": "topic"
+            },
+            {
+                "name": "Materials Chemistry",
+                "experiences": "topic"
+            },
+            {
+                "name": "Chemical Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Materials Science",
+                "experiences": "topic"
+            },
+            {
+                "name": "Strasbourg, France",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Cuong-Pham-Huu"
+        ]
+    },
+    {
+        "id": "rg_104",
+        "name": "Nguyen-Thoi Trung",
+        "entities": [
+            {
+                "name": "Van Lang University",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Director",
+                "experiences": "profession"
+            },
+            {
+                "name": "Artificial Intelligence",
+                "experiences": "topic"
+            },
+            {
+                "name": "Artificial Neural Network",
+                "experiences": "topic"
+            },
+            {
+                "name": "Ho Chi Minh City, Vietnam",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Trung-Nguyen-Thoi"
+        ]
+    },
+    {
+        "id": "rg_106",
+        "name": "Anh Tuan Phan",
+        "entities": [
+            {
+                "name": "Nanyang Technological University",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Singapore",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Anh-Tuan-Phan"
+        ]
+    },
+    {
+        "id": "rg_107",
+        "name": "Anh Tuan DINH-XUAN",
+        "entities": [
+            {
+                "name": "Hôpital Cochin (Hôpitaux Universitaires Paris Centre)",
+                "experiences": "organization"
+            },
+            {
+                "name": "Paris Descartes, CPSC",
+                "experiences": "organization"
+            },
+            {
+                "name": "MD, PhD (Cantab)",
+                "experiences": "profession"
+            },
+            {
+                "name": "Chair",
+                "experiences": "profession"
+            },
+            {
+                "name": "Pulmonology",
+                "experiences": "topic"
+            },
+            {
+                "name": "Respiratory Medicine",
+                "experiences": "topic"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Anh-Tuan-Dinh-Xuan"
+        ]
+    },
+    {
+        "id": "rg_110",
+        "name": "Trung Q. Duong",
+        "entities": [
+            {
+                "name": "Queen's University Belfast",
+                "experiences": "organization"
+            },
+            {
+                "name": "Memorial University of Newfoundland",
+                "experiences": "organization"
+            },
+            {
+                "name": "PhD in Telecommunication",
+                "experiences": "profession"
+            },
+            {
+                "name": "Communication Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Electronic Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "United Kingdom",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Trung-Duong-5"
+        ]
+    },
+    {
+        "id": "rg_112",
+        "name": "Anh Tuan DINH-XUAN",
+        "entities": [
+            {
+                "name": "Hôpital Cochin (Hôpitaux Universitaires Paris Centre)",
+                "experiences": "organization"
+            },
+            {
+                "name": "Paris Descartes, CPSC",
+                "experiences": "organization"
+            },
+            {
+                "name": "MD, PhD (Cantab)",
+                "experiences": "profession"
+            },
+            {
+                "name": "Chair",
+                "experiences": "profession"
+            },
+            {
+                "name": "Pulmonology",
+                "experiences": "topic"
+            },
+            {
+                "name": "Respiratory Medicine",
+                "experiences": "topic"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Anh-Tuan-Dinh-Xuan"
+        ]
+    },
+    {
+        "id": "rg_115",
+        "name": "Tuan-hua David Ho",
+        "entities": [
+            {
+                "name": "Academia Sinica",
+                "experiences": "organization"
+            },
+            {
+                "name": "Distinguished Research Fellow",
+                "experiences": "profession"
+            },
+            {
+                "name": "Wheat",
+                "experiences": "topic"
+            },
+            {
+                "name": "Gibberellins",
+                "experiences": "topic"
+            },
+            {
+                "name": "ABA",
+                "experiences": "topic"
+            },
+            {
+                "name": "Regulation of Gene Expression",
+                "experiences": "topic"
+            },
+            {
+                "name": "Phytohormones",
+                "experiences": "topic"
+            },
+            {
+                "name": "Abiotic Stress",
+                "experiences": "topic"
+            },
+            {
+                "name": "United States",
+                "experiences": "topic"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Tuan-Hua-Ho"
+        ]
+    },
+    {
+        "id": "rg_118",
+        "name": "Quyen G To",
+        "entities": [
+            {
+                "name": "School of Health, Medical and Applied Sciences, Central Queensland University",
+                "experiences": "organization"
+            },
+            {
+                "name": "Ph.D",
+                "experiences": "profession"
+            },
+            {
+                "name": "PostDoc Position",
+                "experiences": "profession"
+            },
+            {
+                "name": "Public Health",
+                "experiences": "topic"
+            },
+            {
+                "name": "Epidemiology",
+                "experiences": "topic"
+            },
+            {
+                "name": "Australia",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Quyen-To"
+        ]
+    },
+    {
+        "id": "rg_121",
+        "name": "Nguyen-Thoi Trung",
+        "entities": [
+            {
+                "name": "Van Lang University",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Director",
+                "experiences": "profession"
+            },
+            {
+                "name": "Artificial Intelligence",
+                "experiences": "topic"
+            },
+            {
+                "name": "Artificial Neural Network",
+                "experiences": "topic"
+            },
+            {
+                "name": "Ho Chi Minh City, Vietnam",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Trung-Nguyen-Thoi"
+        ]
+    },
+    {
+        "id": "rg_124",
+        "name": "Huu Phuc Nguyen",
+        "entities": [
+            {
+                "name": "Ruhr-Universität Bochum",
+                "experiences": "organization"
+            },
+            {
+                "name": "Director",
+                "experiences": "profession"
+            },
+            {
+                "name": "MD",
+                "experiences": "profession"
+            },
+            {
+                "name": "Cellular Neuroscience",
+                "experiences": "topic"
+            },
+            {
+                "name": "Neurodegenerative diseases",
+                "experiences": "topic"
+            },
+            {
+                "name": "Tuebingen, Germany",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Huu-Phuc-Nguyen"
+        ]
+    },
+    {
+        "id": "rg_127",
+        "name": "Anh V. Nguyen",
+        "names": [
+            "Anh Nguyen"
+        ],
+        "entities": [
+            {
+                "name": "University of Queensland",
+                "experiences": "organization"
+            },
+            {
+                "name": "BE, PhD, GradCertHighEduStudies",
+                "experiences": "profession"
+            },
+            {
+                "name": "Professor (Full)",
+                "experiences": "profession"
+            },
+            {
+                "name": "Chemical Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Australia",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Anh-Nguyen-285"
+        ]
+    },
+    {
+        "id": "rg_128",
+        "name": "Van Giai Nguyen",
+        "entities": [
+            {
+                "name": "Université Paris-Sud 11",
+                "experiences": "organization"
+            },
+            {
+                "name": "Nuclear Structure",
+                "experiences": "topic"
+            },
+            {
+                "name": "Nuclear Physics",
+                "experiences": "topic"
+            },
+            {
+                "name": "France",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Nguyen-Van-Giai"
+        ]
+    },
+    {
+        "id": "rg_131",
+        "name": "Manh-Huong Phan",
+        "entities": [
+            {
+                "name": "University of South Florida",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor (Full)",
+                "experiences": "profession"
+            },
+            {
+                "name": "PhD",
+                "experiences": "profession"
+            },
+            {
+                "name": "Tampa, United States",
+                "experiences": "location"
+            },
+            {
+                "name": "Chemical Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Bioengineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Aerospace Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Cancer Research",
+                "experiences": "topic"
+            },
+            {
+                "name": "Biotechnology",
+                "experiences": "topic"
+            },
+            {
+                "name": "Electromagnetism",
+                "experiences": "topic"
+            },
+            {
+                "name": "Materials Science",
+                "experiences": "topic"
+            },
+            {
+                "name": "Materials Physics",
+                "experiences": "topic"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Manh-Huong-Phan"
+        ]
+    },
+    {
+        "id": "rg_133",
+        "name": "Thanh-Hai Nguyen",
+        "entities": [
+            {
+                "name": "Atomic Energy and Alternative Energies Commission",
+                "experiences": "organization"
+            },
+            {
+                "name": "Engineer",
+                "experiences": "profession"
+            },
+            {
+                "name": "Ph.D",
+                "experiences": "profession"
+            },
+            {
+                "name": "Parallel Computing",
+                "experiences": "topic"
+            },
+            {
+                "name": "Distributed Computing",
+                "experiences": "topic"
+            },
+            {
+                "name": "Algorithms",
+                "experiences": "topic"
+            },
+            {
+                "name": "France",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Thanh-Hai-Nguyen-4"
+        ]
+    },
+    {
+        "id": "rg_134",
+        "name": "Anh V. Nguyen",
+        "names": [
+            "Anh Nguyen"
+        ],
+        "entities": [
+            {
+                "name": "University of Queensland",
+                "experiences": "organization"
+            },
+            {
+                "name": "BE, PhD, GradCertHighEduStudies",
+                "experiences": "profession"
+            },
+            {
+                "name": "Professor (Full)",
+                "experiences": "profession"
+            },
+            {
+                "name": "Chemical Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Australia",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Anh-Nguyen-285"
+        ]
+    },
+    {
+        "id": "rg_135",
+        "name": "Tho Le-Ngoc",
+        "entities": [
+            {
+                "name": "McGill University",
+                "experiences": "organization"
+            },
+            {
+                "name": "Electronic Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Electrical Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Communication Engineering",
+                "experiences": "topic"
+            },
+            {
+                "name": "Canada",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Tho-Le-Ngoc"
+        ]
+    },
+    {
+        "id": "rg_137",
+        "name": "Thanh Tra Nguyen",
+        "entities": [
+            {
+                "name": "Cea Leti",
+                "experiences": "organization"
+            },
+            {
+                "name": "PhD",
+                "experiences": "profession"
+            },
+            {
+                "name": "Engineer",
+                "experiences": "profession"
+            },
+            {
+                "name": "Materials Science",
+                "experiences": "topic"
+            },
+            {
+                "name": "Condensed Matter Physics",
+                "experiences": "topic"
+            },
+            {
+                "name": "thin film",
+                "experiences": "topic"
+            },
+            {
+                "name": "X-ray spectroscopy",
+                "experiences": "topic"
+            },
+            {
+                "name": "X-ray diffraction",
+                "experiences": "topic"
+            },
+            {
+                "name": "France",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Tra-Nguyen-Thanh"
+        ]
+    },
+    {
+        "id": "rg_138",
+        "name": "Hien Quoc Ngo",
+        "entities": [
+            {
+                "name": "Queen's University Belfast, UK",
+                "experiences": "organization"
+            },
+            {
+                "name": "Reader",
+                "experiences": "profession"
+            },
+            {
+                "name": "Phd",
+                "experiences": "profession"
+            },
+            {
+                "name": "Information and Communication Technology",
+                "experiences": "topic"
+            },
+            {
+                "name": "Signal Processing",
+                "experiences": "topic"
+            },
+            {
+                "name": "Antennas and Propagation",
+                "experiences": "topic"
+            },
+            {
+                "name": "Antenna Arrays",
+                "experiences": "topic"
+            },
+            {
+                "name": "United Kingdom",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Hien-Ngo-8"
+        ]
+    },
+    {
+        "id": "rg_140",
+        "name": "Quang Le",
+        "entities": [
+            {
+                "name": "University of Portsmouth",
+                "experiences": "organization"
+            },
+            {
+                "name": "Biostatistics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Bioinformatics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Evolutionary Biology",
+                "experiences": "topic"
+            },
+            {
+                "name": "United Kingdom",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.researchgate.net/profile/Quang-Le-16"
+        ]
+    }
+]

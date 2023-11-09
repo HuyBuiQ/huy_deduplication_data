@@ -1,0 +1,1146 @@
+[
+    {
+        "id": "ld_71",
+        "name": "Pham Ngoc Dong",
+        "names": [
+            "Phạm Ngọc Đồng",
+            "Ngoc Dong"
+        ],
+        "entities": [
+            {
+                "name": "Institute for Nuclear Science and Technology (INST), VINATOM",
+                "experiences": "organization"
+            },
+            {
+                "name": "Researcher",
+                "experiences": "profession"
+            },
+            {
+                "name": "Head of General Planning Department",
+                "experiences": "profession"
+            },
+            {
+                "name": "Deputy Director",
+                "experiences": "profession"
+            },
+            {
+                "name": "Hanoi",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://vn.linkedin.com/in/dong-ngoc-67b12b11b"
+        ]
+    },
+    {
+        "id": "ld_72",
+        "name": "Kim-Anh Do",
+        "names": [
+            "Đỗ Kim Anh"
+        ],
+        "entities": [
+            {
+                "name": "MD Anderson Cancer Center",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Applied MathematicsT",
+                "experiences": "topic"
+            },
+            {
+                "name": "United States",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://faculty.mdanderson.org/profiles/kim-anh_do.html",
+            "https://www.linkedin.com/in/kim-anh-do-35b31463/"
+        ]
+    },
+    {
+        "id": "ld_75",
+        "name": "Minh Nguyen",
+        "names": [
+            "Minh Tho Nguyen",
+            "Minh Tho"
+        ],
+        "entities": [
+            {
+                "name": "KU Leuven",
+                "experiences": "organization"
+            },
+            {
+                "name": "Full Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Belgium",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/minh-tho-nguyen-379a03161/",
+            "https://www.kuleuven.be/wieiswie/en/person/00014440"
+        ]
+    },
+    {
+        "id": "ld_76",
+        "name": "Minh Nguyen",
+        "names": [
+            "Minh H. Nguyen"
+        ],
+        "entities": [
+            {
+                "name": "University of Newcastle",
+                "experiences": "organization"
+            },
+            {
+                "name": "Western Sydney University",
+                "experiences": "organization"
+            },
+            {
+                "name": "Conjoint Assoc Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Adjunct Assoc Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "food",
+                "experiences": "topic"
+            },
+            {
+                "name": "Australia",
+                "experiences": "location"
+            },
+            {
+                "name": "Sydney",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/minh-h-nguyen-40023855/?originalSubdomain=au"
+        ]
+    },
+    {
+        "id": "ld_77",
+        "name": "Son Pham",
+        "entities": [
+            {
+                "name": "BioTuring",
+                "experiences": "organization"
+            },
+            {
+                "name": "CEO",
+                "experiences": "profession"
+            },
+            {
+                "name": "San Diego, California, United States",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/son-k-pham/"
+        ]
+    },
+    {
+        "id": "ld_78",
+        "name": "Minh Nguyen",
+        "names": [
+            "Minh Tho Nguyen",
+            "Minh Tho"
+        ],
+        "entities": [
+            {
+                "name": "KU Leuven",
+                "experiences": "organization"
+            },
+            {
+                "name": "Full Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Belgium",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/minh-tho-nguyen-379a03161/",
+            "https://www.kuleuven.be/wieiswie/en/person/00014440"
+        ]
+    },
+    {
+        "id": "ld_79",
+        "name": "Phạm Việt Hùng",
+        "entities": [
+            {
+                "name": "CRES, VNU",
+                "experiences": "organization"
+            },
+            {
+                "name": "Researcher",
+                "experiences": "profession"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/phạm-việt-hùng-34a40071/"
+        ]
+    },
+    {
+        "id": "ld_80",
+        "name": "Frederic Nguyen Van Dau",
+        "entities": [
+            {
+                "name": "Université Paris-Sud",
+                "experiences": "organization"
+            },
+            {
+                "name": "Thales ",
+                "experiences": "organization"
+            },
+            {
+                "name": "Senior expert chez Thales",
+                "experiences": "profession"
+            },
+            {
+                "name": "Palaiseau, Île-de-France, France",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/frederic-nguyen-van-dau-a9229315b/"
+        ]
+    },
+    {
+        "id": "ld_81",
+        "name": "Thao Nguyen Thi",
+        "entities": [
+            {
+                "name": "VNSC",
+                "experiences": "organization"
+            },
+            {
+                "name": "Researcher",
+                "experiences": "profession"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/thao-nguyen-thi-ab41647a/"
+        ]
+    },
+    {
+        "id": "ld_82",
+        "name": "Frederic Nguyen Van Dau",
+        "entities": [
+            {
+                "name": "Université Paris-Sud",
+                "experiences": "organization"
+            },
+            {
+                "name": "Thales ",
+                "experiences": "organization"
+            },
+            {
+                "name": "Senior expert chez Thales",
+                "experiences": "profession"
+            },
+            {
+                "name": "Palaiseau, Île-de-France, France",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/frederic-nguyen-van-dau-a9229315b/"
+        ]
+    },
+    {
+        "id": "ld_83",
+        "name": "Phạm Việt Hùng",
+        "entities": [
+            {
+                "name": "CRES, VNU",
+                "experiences": "organization"
+            },
+            {
+                "name": "Researcher",
+                "experiences": "profession"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/phạm-việt-hùng-34a40071/"
+        ]
+    },
+    {
+        "id": "ld_84",
+        "name": "AnHai Doan",
+        "entities": [
+            {
+                "name": "University of Washington",
+                "experiences": "organization"
+            },
+            {
+                "name": "MAANA",
+                "experiences": "organization"
+            },
+            {
+                "name": "University of Wisconsin-Madison",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor in Computer Science",
+                "experiences": "profession"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/anhai-doan-12651b/",
+            "https://pages.cs.wisc.edu/~anhai/"
+        ]
+    },
+    {
+        "id": "ld_85",
+        "name": "Thao Nguyen Thi",
+        "entities": [
+            {
+                "name": "VNSC",
+                "experiences": "organization"
+            },
+            {
+                "name": "Researcher",
+                "experiences": "profession"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/thao-nguyen-thi-ab41647a/"
+        ]
+    },
+    {
+        "id": "ld_86",
+        "name": "Son Pham",
+        "entities": [
+            {
+                "name": "BioTuring",
+                "experiences": "organization"
+            },
+            {
+                "name": "CEO",
+                "experiences": "profession"
+            },
+            {
+                "name": "San Diego, California, United States",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/son-k-pham/"
+        ]
+    },
+    {
+        "id": "ld_88",
+        "name": "Hoang Van Minh",
+        "entities": [
+            {
+                "name": "Hanoi Medical University",
+                "experiences": "organization"
+            },
+            {
+                "name": "Associate Professor, MD, Phd",
+                "experiences": "profession"
+            },
+            {
+                "name": "Health Economics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Bio-statistics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Research Methodology",
+                "experiences": "topic"
+            },
+            {
+                "name": "Health Financing",
+                "experiences": "topic"
+            },
+            {
+                "name": "Epidemiology",
+                "experiences": "topic"
+            },
+            {
+                "name": "Vietnam",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/hoang-van-minh-55a64664/",
+            "https://www.dcp-3.org/author/hoang-van-minh"
+        ]
+    },
+    {
+        "id": "ld_91",
+        "name": "Nhan Phan-Thien",
+        "entities": [
+            {
+                "name": " National University of Singapore",
+                "experiences": "organization"
+            },
+            {
+                "name": "University of Sydney",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor in Mechanical Engineering",
+                "experiences": "profession"
+            },
+            {
+                "name": "Singapore",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/nhan-phan-thien-815b6a5/"
+        ]
+    },
+    {
+        "id": "ld_92",
+        "name": "H. Nguyen-Xuan",
+        "entities": [
+            {
+                "name": "HUTECH University",
+                "experiences": "organization"
+            },
+            {
+                "name": "University of Liège",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor, Director of CIRTech Institute, HUTECH University",
+                "experiences": "profession"
+            },
+            {
+                "name": "Computational Mechanics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Numerical Analysis",
+                "experiences": "topic"
+            },
+            {
+                "name": "Vietnam",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/hung-nguyen-xuan-7b6ba61/"
+        ]
+    },
+    {
+        "id": "ld_93",
+        "name": "Nhan Phan-Thien",
+        "entities": [
+            {
+                "name": " National University of Singapore",
+                "experiences": "organization"
+            },
+            {
+                "name": "University of Sydney",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor in Mechanical Engineering",
+                "experiences": "profession"
+            },
+            {
+                "name": "Singapore",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/nhan-phan-thien-815b6a5/"
+        ]
+    },
+    {
+        "id": "ld_95",
+        "name": "Nguyen T. K. Thanh, FRSC FInstP FIMMM FRSB",
+        "entities": [
+            {
+                "name": "Royal Society of Chemistry",
+                "experiences": "organization"
+            },
+            {
+                "name": "Full Professor of Nanomaterials at UCL, Vice Dean for Innovation and Enterprise, Faculty of Maths & Phys. Sci., Editor-in-chief of the RSC book Series in Nanoscience and Nanotechnology",
+                "experiences": "profession"
+            },
+            {
+                "name": "Biomaterials",
+                "experiences": "topic"
+            },
+            {
+                "name": "nanotechnology",
+                "experiences": "topic"
+            },
+            {
+                "name": "United Kingdom",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://ntk-thanh.co.uk",
+            "https://www.linkedin.com/in/nguyen-t-k-thanh-frsc-finstp-fimmm-frsb-00925426/?originalSubdomain=uk"
+        ]
+    },
+    {
+        "id": "ld_97",
+        "name": "Cam Nguyen",
+        "entities": [
+            {
+                "name": "Texas A&M University",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "College Station, Texas, United States",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/cam-nguyen-a157a43a/"
+        ]
+    },
+    {
+        "id": "ld_98",
+        "name": "H. Nguyen-Xuan",
+        "entities": [
+            {
+                "name": "HUTECH University",
+                "experiences": "organization"
+            },
+            {
+                "name": "University of Liège",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor, Director of CIRTech Institute, HUTECH University",
+                "experiences": "profession"
+            },
+            {
+                "name": "Computational Mechanics",
+                "experiences": "topic"
+            },
+            {
+                "name": "Numerical Analysis",
+                "experiences": "topic"
+            },
+            {
+                "name": "Vietnam",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/hung-nguyen-xuan-7b6ba61/"
+        ]
+    },
+    {
+        "id": "ld_99",
+        "name": "Cam Nguyen",
+        "entities": [
+            {
+                "name": "Texas A&M University",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "College Station, Texas, United States",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/cam-nguyen-a157a43a/"
+        ]
+    },
+    {
+        "id": "ld_100",
+        "name": "Cao Thang Dinh",
+        "entities": [
+            {
+                "name": "Queen's University",
+                "experiences": "organization"
+            },
+            {
+                "name": "Assistant Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "electrocatalysis",
+                "experiences": "topic"
+            },
+            {
+                "name": "nanomaterials",
+                "experiences": "topic"
+            },
+            {
+                "name": "Kingston, Ontario, Canada",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/cao-thang-dinh-58086469/"
+        ]
+    },
+    {
+        "id": "ld_101",
+        "name": "Anh Tuan Phan",
+        "entities": [
+            {
+                "name": "Nanyang Technological University (NTU), Singapore",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Singapore",
+                "experiences": "location"
+            },
+            {
+                "name": "Biochemistry",
+                "experiences": "topic"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/anh-tuan-phan-71423b72/?originalSubdomain=sg"
+        ]
+    },
+    {
+        "id": "ld_102",
+        "name": "Nguyen T. K. Thanh, FRSC FInstP FIMMM FRSB",
+        "entities": [
+            {
+                "name": "Royal Society of Chemistry",
+                "experiences": "organization"
+            },
+            {
+                "name": "Full Professor of Nanomaterials at UCL, Vice Dean for Innovation and Enterprise, Faculty of Maths & Phys. Sci., Editor-in-chief of the RSC book Series in Nanoscience and Nanotechnology",
+                "experiences": "profession"
+            },
+            {
+                "name": "Biomaterials",
+                "experiences": "topic"
+            },
+            {
+                "name": "nanotechnology",
+                "experiences": "topic"
+            },
+            {
+                "name": "United Kingdom",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://ntk-thanh.co.uk",
+            "https://www.linkedin.com/in/nguyen-t-k-thanh-frsc-finstp-fimmm-frsb-00925426/?originalSubdomain=uk"
+        ]
+    },
+    {
+        "id": "ld_103",
+        "name": "Cuong Pham-Huu",
+        "entities": [
+            {
+                "name": "University of Strasbourg",
+                "experiences": "organization"
+            },
+            {
+                "name": "CNRS",
+                "experiences": "organization"
+            },
+            {
+                "name": "ICPEES",
+                "experiences": "organization"
+            },
+            {
+                "name": "Directeur de recherche",
+                "experiences": "profession"
+            },
+            {
+                "name": "PhD, Research Director CNRS",
+                "experiences": "profession"
+            },
+            {
+                "name": "Science des matériaux",
+                "experiences": "topic"
+            },
+            {
+                "name": "R&D",
+                "experiences": "topic"
+            },
+            {
+                "name": "Greater Strasbourg Metropolitan Area",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/cuong-pham-huu-61882618/"
+        ]
+    },
+    {
+        "id": "ld_104",
+        "name": "Nguyen-Thoi Trung",
+        "entities": [
+            {
+                "name": "Ton Duc Thang University, Ho Chi Minh City, Viet Nam",
+                "experiences": "organization"
+            },
+            {
+                "name": "University of Science, Vietnamese National University, HCM",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Vietnam",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/nguyen-thoi-trung-6608501a/"
+        ]
+    },
+    {
+        "id": "ld_106",
+        "name": "Anh Tuan Phan",
+        "entities": [
+            {
+                "name": "Nanyang Technological University (NTU), Singapore",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Singapore",
+                "experiences": "location"
+            },
+            {
+                "name": "Biochemistry",
+                "experiences": "topic"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/anh-tuan-phan-71423b72/?originalSubdomain=sg"
+        ]
+    },
+    {
+        "id": "ld_107",
+        "name": "Anh Tuan DINH-XUAN",
+        "entities": [
+            {
+                "name": "Hôpital Cochin, Université Paris Descartes",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professeur",
+                "experiences": "profession"
+            },
+            {
+                "name": "Chef de Service",
+                "experiences": "profession"
+            },
+            {
+                "name": "Greater Paris Metropolitan Region",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/anh-tuan-dinh-xuan-44632527/"
+        ]
+    },
+    {
+        "id": "ld_108",
+        "name": "Hieu Nguyen",
+        "entities": [
+            {
+                "name": "Boeing Research and Technology",
+                "experiences": "organization"
+            },
+            {
+                "name": "Advanced Technologist in Computer Vision",
+                "experiences": "profession"
+            },
+            {
+                "name": "Computer Vision",
+                "experiences": "topic"
+            },
+            {
+                "name": "Machine Learning",
+                "experiences": "topic"
+            },
+            {
+                "name": "Huntsville-Decatur-Albertville Area ",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/hieu-nguyen-6555076/"
+        ]
+    },
+    {
+        "id": "ld_110",
+        "name": "Trung Q. Duong",
+        "entities": [
+            {
+                "name": "Queen's University Belfast",
+                "experiences": "organization"
+            },
+            {
+                "name": "Memorial University of Newfoundland",
+                "experiences": "organization"
+            },
+            {
+                "name": "Chair Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "IEEE Fellow",
+                "experiences": "profession"
+            },
+            {
+                "name": "Full Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Signal Processing",
+                "experiences": "topic"
+            },
+            {
+                "name": "C",
+                "experiences": "topic"
+            },
+            {
+                "name": "Belfast Metropolitan Area",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/trung-q-duong-6a671026/"
+        ]
+    },
+    {
+        "id": "ld_112",
+        "name": "Anh Tuan DINH-XUAN",
+        "entities": [
+            {
+                "name": "Hôpital Cochin, Université Paris Descartes",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professeur",
+                "experiences": "profession"
+            },
+            {
+                "name": "Chef de Service",
+                "experiences": "profession"
+            },
+            {
+                "name": "Greater Paris Metropolitan Region",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/anh-tuan-dinh-xuan-44632527/"
+        ]
+    },
+    {
+        "id": "ld_115",
+        "name": "Tuan-hua David Ho",
+        "entities": [
+            {
+                "name": "Washington University in St. Louis",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Washington University in St. Louis",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/tuan-hua-david-ho-49388838/"
+        ]
+    },
+    {
+        "id": "ld_121",
+        "name": "Nguyen-Thoi Trung",
+        "entities": [
+            {
+                "name": "Ton Duc Thang University, Ho Chi Minh City, Viet Nam",
+                "experiences": "organization"
+            },
+            {
+                "name": "University of Science, Vietnamese National University, HCM",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor",
+                "experiences": "profession"
+            },
+            {
+                "name": "Vietnam",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/nguyen-thoi-trung-6608501a/"
+        ]
+    },
+    {
+        "id": "ld_127",
+        "name": "Anh Nguyen",
+        "entities": [
+            {
+                "name": "University of Queensland",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor of Minerals Processing",
+                "experiences": "profession"
+            },
+            {
+                "name": "Greater Brisbane Area ",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/anh-nguyen-39765313/"
+        ]
+    },
+    {
+        "id": "ld_131",
+        "name": "Phan, Manh-Huong",
+        "entities": [
+            {
+                "name": "University of South Florida",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor of Physics",
+                "experiences": "profession"
+            },
+            {
+                "name": "physics",
+                "experiences": "topic"
+            },
+            {
+                "name": "research",
+                "experiences": "topic"
+            },
+            {
+                "name": "Tampa, Florida, United States",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/phan-manh-huong-4b56bb7/"
+        ]
+    },
+    {
+        "id": "ld_133",
+        "name": "Thanh-Hai Nguyen",
+        "entities": [
+            {
+                "name": "CEA List",
+                "experiences": "organization"
+            },
+            {
+                "name": "Data Privacy & Security Architect",
+                "experiences": "profession"
+            },
+            {
+                "name": "embedded systems",
+                "experiences": "topic"
+            },
+            {
+                "name": "Signal Processing",
+                "experiences": "topic"
+            },
+            {
+                "name": "Paris, Île-de-France, France",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/cuncunguyen/"
+        ]
+    },
+    {
+        "id": "ld_134",
+        "name": "Anh Nguyen",
+        "entities": [
+            {
+                "name": "University of Queensland",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor of Minerals Processing",
+                "experiences": "profession"
+            },
+            {
+                "name": "Greater Brisbane Area ",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/anh-nguyen-39765313/"
+        ]
+    },
+    {
+        "id": "ld_135",
+        "name": "Tho Le-Ngoc",
+        "entities": [
+            {
+                "name": "McGill University",
+                "experiences": "organization"
+            },
+            {
+                "name": "Professor",
+                "experiences": "profession"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/tho-le-ngoc-bba1b1167/"
+        ]
+    },
+    {
+        "id": "ld_137",
+        "name": "Tra Nguyen",
+        "entities": [
+            {
+                "name": "Xenocs",
+                "experiences": "organization"
+            },
+            {
+                "name": "Application Scientist",
+                "experiences": "profession"
+            },
+            {
+                "name": "PhD in Physics and Optoelectronics",
+                "experiences": "profession"
+            },
+            {
+                "name": "X-ray metrology",
+                "experiences": "topic"
+            },
+            {
+                "name": "X-ray diffraction",
+                "experiences": "topic"
+            },
+            {
+                "name": "Grenoble, Auvergne-Rhône-Alpes, France",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/tra-nguyen-58b84b66/"
+        ]
+    },
+    {
+        "id": "ld_138",
+        "name": "Hien Quoc Ngo",
+        "entities": [
+            {
+                "name": "Queen's University Belfast",
+                "experiences": "organization"
+            },
+            {
+                "name": "Reader (Associate Professor)",
+                "experiences": "profession"
+            },
+            {
+                "name": "Wireless Communications Systems",
+                "experiences": "topic"
+            },
+            {
+                "name": "Signal Processing",
+                "experiences": "topic"
+            },
+            {
+                "name": "Belfast, Northern Ireland, United Kingdom",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/ngo-quoc-hien-1a48a476/"
+        ]
+    },
+    {
+        "id": "ld_139",
+        "name": "Hieu Nguyen",
+        "entities": [
+            {
+                "name": "Boeing Research and Technology",
+                "experiences": "organization"
+            },
+            {
+                "name": "Advanced Technologist in Computer Vision",
+                "experiences": "profession"
+            },
+            {
+                "name": "Computer Vision",
+                "experiences": "topic"
+            },
+            {
+                "name": "Machine Learning",
+                "experiences": "topic"
+            },
+            {
+                "name": "Huntsville-Decatur-Albertville Area ",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/hieu-nguyen-6555076/"
+        ]
+    },
+    {
+        "id": "ld_140",
+        "name": "Quang Si LE",
+        "entities": [
+            {
+                "name": "Meta",
+                "experiences": "organization"
+            },
+            {
+                "name": "PhD",
+                "experiences": "profession"
+            },
+            {
+                "name": "Senior software engineer",
+                "experiences": "profession"
+            },
+            {
+                "name": "Southampton, England, United Kingdom",
+                "experiences": "location"
+            }
+        ],
+        "source_urls": [
+            "https://www.linkedin.com/in/quangsile/"
+        ]
+    }
+]

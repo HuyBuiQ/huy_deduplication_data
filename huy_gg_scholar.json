@@ -1,0 +1,2053 @@
+[
+	{
+		"id": "gs_71",
+		"name": "Pham Ngoc Dong",
+		"names": [
+			"Phạm Ngọc Đồng",
+			"Ngoc Dong"
+		],
+		"entities": [
+			{
+				"name": "Institute for Nuclear Science and Technology, Vietnam Atomic Energy Institute (Vinatom)",
+				"experiences": "organization"
+			},
+			{
+				"name": "Researcher",
+				"experiences": "profession"
+			},
+			{
+				"name": "probabilistic risk assessment",
+				"experiences": "topic"
+			},
+			{
+				"name": "nuclear safety",
+				"experiences": "topic"
+			},
+			{
+				"name": "nuclear engineering",
+				"experiences": "topic"
+			},
+			{
+				"name": "High energy cosmic rays",
+				"experiences": "topic"
+			},
+			{
+				"name": "astroparticle physics and astronomy",
+				"experiences": "topic"
+			},
+			{
+				"name": "Hanoi",
+				"experiences": "location"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=qlFP-IEAAAAJ"
+		]
+	},
+	{
+		"id": "gs_72",
+		"name": "Kim-Anh Do",
+		"names": [
+			"Đỗ Kim Anh"
+		],
+		"entities": [
+			{
+				"name": "MD Anderson Cancer Center",
+				"experiences": "organization"
+			},
+			{
+				"name": "Professor",
+				"experiences": "profession"
+			},
+			{
+				"name": "statistics",
+				"experiences": "topic"
+			},
+			{
+				"name": "biostatistics",
+				"experiences": "topic"
+			},
+			{
+				"name": "bioinformatics",
+				"experiences": "topic"
+			},
+			{
+				"name": "cancer",
+				"experiences": "topic"
+			},
+			{
+				"name": "medical research",
+				"experiences": "topic"
+			},
+			{
+				"name": "United States",
+				"experiences": "location"
+			}
+		],
+		"source_urls": [
+			"https://faculty.mdanderson.org/profiles/kim-anh_do.html",
+			"https://scholar.google.com/citations?user=Ixr1k3gAAAAJ"
+		]
+	},
+	{
+		"id": "gs_73",
+		"name": "Tai D Phan",
+		"names": [
+			"Tai Phan",
+			"Tai D. Phan"
+		],
+		"entities": [
+			{
+				"name": "University of California, Berkeley",
+				"experiences": "organization"
+			},
+			{
+				"name": "Researcher",
+				"experiences": "profession"
+			},
+			{
+				"name": "magnetic reconnection",
+				"experiences": "topic"
+			},
+			{
+				"name": "Plasma Physics",
+				"experiences": "topic"
+			},
+			{
+				"name": "United States",
+				"experiences": "location"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=Oil1gYUAAAAJ",
+			"https://www-dev.ssl.berkeley.edu/full-directory/name/tai-phan/"
+		]
+	},
+	{
+		"id": "gs_74",
+		"name": "Minh N. Nguyen",
+		"entities": [
+			{
+				"name": "Researcher",
+				"experiences": "profession"
+			},
+			{
+				"name": "modelling structures of proteins",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=Z0vQJcUAAAAJ"
+		]
+	},
+	{
+		"id": "gs_75",
+		"name": "Minh Nguyen",
+		"names": [
+			"Minh Tho Nguyen",
+			"Minh Tho"
+		],
+		"entities": [
+			{
+				"name": "KU Leuven",
+				"experiences": "organization"
+			},
+			{
+				"name": "Researcher",
+				"experiences": "profession"
+			},
+			{
+				"name": "chemistry",
+				"experiences": "topic"
+			},
+			{
+				"name": "Belgium",
+				"experiences": "location"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=AKkrECMAAAAJ&hl=en",
+			"https://www.kuleuven.be/wieiswie/en/person/00014440"
+		]
+	},
+	{
+		"id": "gs_76",
+		"name": "Minh Nguyen",
+		"names": [
+			"Minh H. Nguyen"
+		],
+		"entities": [
+			{
+				"name": "University of Newcastle",
+				"experiences": "organization"
+			},
+			{
+				"name": "Western Sydney University",
+				"experiences": "organization"
+			},
+			{
+				"name": "food",
+				"experiences": "topic"
+			},
+			{
+				"name": "technology",
+				"experiences": "topic"
+			},
+			{
+				"name": "engineering",
+				"experiences": "topic"
+			},
+			{
+				"name": "science",
+				"experiences": "topic"
+			},
+			{
+				"name": "health",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=0geqFDAAAAAJ",
+			"https://www.newcastle.edu.au/profile/minh-nguyen"
+		]
+	},
+	{
+		"id": "gs_77",
+		"name": "Son Pham",
+		"entities": [
+			{
+				"name": "BioTuring",
+				"experiences": "organization"
+			},
+			{
+				"name": "Graph Theory",
+				"experiences": "topic"
+			},
+			{
+				"name": "Genomics",
+				"experiences": "topic"
+			},
+			{
+				"name": "Bioinformatics",
+				"experiences": "topic"
+			},
+			{
+				"name": "neuroscience",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=zn5RoK8AAAAJ"
+		]
+	},
+	{
+		"id": "gs_78",
+		"name": "Minh Nguyen",
+		"names": [
+			"Minh Tho Nguyen",
+			"Minh Tho"
+		],
+		"entities": [
+			{
+				"name": "KU Leuven",
+				"experiences": "organization"
+			},
+			{
+				"name": "Researcher",
+				"experiences": "profession"
+			},
+			{
+				"name": "chemistry",
+				"experiences": "topic"
+			},
+			{
+				"name": "Belgium",
+				"experiences": "location"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=AKkrECMAAAAJ&hl=en",
+			"https://www.kuleuven.be/wieiswie/en/person/00014440"
+		]
+	},
+	{
+		"id": "gs_79",
+		"name": "Hung Viet Pham",
+		"entities": [
+			{
+				"name": "Vietnam National University (VNU)",
+				"experiences": "organization"
+			},
+			{
+				"name": "Professor",
+				"experiences": "profession"
+			},
+			{
+				"name": "Environmental quality",
+				"experiences": "topic"
+			},
+			{
+				"name": "Food safety control",
+				"experiences": "topic"
+			},
+			{
+				"name": "Environmental chemistry",
+				"experiences": "topic"
+			},
+			{
+				"name": "Analytical Chemistry",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=TngVdDsAAAAJ"
+		]
+	},
+	{
+		"id": "gs_80",
+		"name": "Frederic Nguyen Van Dau",
+		"entities": [
+			{
+				"name": "UMR CNRS Thales",
+				"experiences": "organization"
+			},
+			{
+				"name": "Spintronics",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=p0R1G5AAAAAJ"
+		]
+	},
+	{
+		"id": "gs_81",
+		"name": "Nguyen Thi Thao",
+		"entities": [
+			{
+				"name": "Department of Astrophysics, Vietnam National Satellite Center",
+				"experiences": "organization"
+			},
+			{
+				"name": "Researcher",
+				"experiences": "profession"
+			},
+			{
+				"name": "Particle pgysics",
+				"experiences": "topic"
+			},
+			{
+				"name": "Astrophysics",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=mefyrcIAAAAJ"
+		]
+	},
+	{
+		"id": "gs_82",
+		"name": "Frederic Nguyen Van Dau",
+		"entities": [
+			{
+				"name": "UMR CNRS Thales",
+				"experiences": "organization"
+			},
+			{
+				"name": "Spintronics",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=p0R1G5AAAAAJ"
+		]
+	},
+	{
+		"id": "gs_83",
+		"name": "Hung Viet Pham",
+		"entities": [
+			{
+				"name": "Vietnam National University (VNU)",
+				"experiences": "organization"
+			},
+			{
+				"name": "Professor",
+				"experiences": "profession"
+			},
+			{
+				"name": "Environmental quality",
+				"experiences": "topic"
+			},
+			{
+				"name": "Food safety control",
+				"experiences": "topic"
+			},
+			{
+				"name": "Environmental chemistry",
+				"experiences": "topic"
+			},
+			{
+				"name": "Analytical Chemistry",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=TngVdDsAAAAJ"
+		]
+	},
+	{
+		"id": "gs_84",
+		"name": "AnHai Doan",
+		"entities": [
+			{
+				"name": "University of Wisconsin-Madison",
+				"experiences": "organization"
+			},
+			{
+				"name": "Professor of Computer Science",
+				"experiences": "profession"
+			},
+			{
+				"name": "crowdsourcing",
+				"experiences": "topic"
+			},
+			{
+				"name": "big data",
+				"experiences": "topic"
+			},
+			{
+				"name": "data science",
+				"experiences": "topic"
+			},
+			{
+				"name": "data cleaning",
+				"experiences": "topic"
+			},
+			{
+				"name": "Data integration",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=Qa_TAw4AAAAJ",
+			"https://pages.cs.wisc.edu/~anhai/"
+		]
+	},
+	{
+		"id": "gs_85",
+		"name": "Nguyen Thi Thao",
+		"entities": [
+			{
+				"name": "Department of Astrophysics, Vietnam National Satellite Center",
+				"experiences": "organization"
+			},
+			{
+				"name": "Researcher",
+				"experiences": "profession"
+			},
+			{
+				"name": "Particle pgysics",
+				"experiences": "topic"
+			},
+			{
+				"name": "Astrophysics",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=mefyrcIAAAAJ"
+		]
+	},
+	{
+		"id": "gs_86",
+		"name": "Son Pham",
+		"entities": [
+			{
+				"name": "BioTuring",
+				"experiences": "organization"
+			},
+			{
+				"name": "Graph Theory",
+				"experiences": "topic"
+			},
+			{
+				"name": "Genomics",
+				"experiences": "topic"
+			},
+			{
+				"name": "Bioinformatics",
+				"experiences": "topic"
+			},
+			{
+				"name": "neuroscience",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=zn5RoK8AAAAJ"
+		]
+	},
+	{
+		"id": "gs_87",
+		"name": "Hai Pham",
+		"entities": [
+			{
+				"name": "đại học fpt",
+				"experiences": "organization"
+			},
+			{
+				"name": "đại học fpt",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=MLjcL2cAAAAJ"
+		]
+	},
+	{
+		"id": "gs_88",
+		"name": "Hoang Van Minh",
+		"entities": [
+			{
+				"name": "Hanoi University of Public Health",
+				"experiences": "organization"
+			},
+			{
+				"name": "health economics_and epidemiology",
+				"experiences": "topic"
+			},
+			{
+				"name": "Health system",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=9Jug-j8AAAAJ",
+			"http://cphs.huph.edu.vn/research-staffs/assoc-prof-hoang-van-minh-md-phd.asp"
+		]
+	},
+	{
+		"id": "gs_89",
+		"name": "Minh N. Nguyen",
+		"entities": [
+			{
+				"name": "Senior Post Doctoral Research Fellow",
+				"experiences": "profession"
+			},
+			{
+				"name": "modelling structures of proteins",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=Z0vQJcUAAAAJ"
+		]
+	},
+	{
+		"id": "gs_90",
+		"name": "Thanh Phan",
+		"entities": [
+			{
+				"name": "Monash University",
+				"experiences": "organization"
+			},
+			{
+				"name": "Data Sciences",
+				"experiences": "topic"
+			},
+			{
+				"name": "Geospatial Analysis",
+				"experiences": "topic"
+			},
+			{
+				"name": "Imaging",
+				"experiences": "topic"
+			},
+			{
+				"name": "Stroke",
+				"experiences": "topic"
+			},
+			{
+				"name": "Neurosciences",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=CLFWir0AAAAJ",
+			"https://research.monash.edu/en/persons/thanh-phan",
+			"https://www.monash.edu/medicine/scs/researchers/thanh-phan"
+		]
+	},
+	{
+		"id": "gs_91",
+		"name": "Nhan Phan-Thien",
+		"entities": [
+			{
+				"name": " Mechanical Engineering Department, NUS",
+				"experiences": "organization"
+			},
+			{
+				"name": "Professor Emeritus",
+				"experiences": "profession"
+			},
+			{
+				"name": "non newtonian fluid mechanics",
+				"experiences": "topic"
+			},
+			{
+				"name": "Computational Mechanics",
+				"experiences": "topic"
+			},
+			{
+				"name": "Rheology",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://cde.nus.edu.sg/me/staff/phan-thien-nhan-2/",
+			"https://scholar.google.com/citations?user=HJQ3tZgAAAAJ"
+		]
+	},
+	{
+		"id": "gs_92",
+		"name": "H. Nguyen-Xuan",
+		"entities": [
+			{
+				"name": "CIRTech Institute, HUTECH University",
+				"experiences": "organization"
+			},
+			{
+				"name": "Renewable Energy",
+				"experiences": "topic"
+			},
+			{
+				"name": "3D Printing",
+				"experiences": "topic"
+			},
+			{
+				"name": "Large-scale Data",
+				"experiences": "topic"
+			},
+			{
+				"name": "Computational Engineering",
+				"experiences": "topic"
+			},
+			{
+				"name": "Vietnam",
+				"experiences": "location"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=3iK9h-gAAAAJ"
+		]
+	},
+	{
+		"id": "gs_93",
+		"name": "Nhan Phan-Thien",
+		"entities": [
+			{
+				"name": " Mechanical Engineering Department, NUS",
+				"experiences": "organization"
+			},
+			{
+				"name": "Professor Emeritus",
+				"experiences": "profession"
+			},
+			{
+				"name": "non newtonian fluid mechanics",
+				"experiences": "topic"
+			},
+			{
+				"name": "Computational Mechanics",
+				"experiences": "topic"
+			},
+			{
+				"name": "Rheology",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://cde.nus.edu.sg/me/staff/phan-thien-nhan-2/",
+			"https://scholar.google.com/citations?user=HJQ3tZgAAAAJ"
+		]
+	},
+	{
+		"id": "gs_94",
+		"name": "Huu Phuc Nguyen",
+		"entities": [
+			{
+				"name": "University of Tuebingen",
+				"experiences": "organization"
+			},
+			{
+				"name": "Institute of Medical Genetics and Applied Genomics",
+				"experiences": "organization"
+			},
+			{
+				"name": "neuroscience",
+				"experiences": "topic"
+			},
+			{
+				"name": "polyglutamine diseases",
+				"experiences": "topic"
+			},
+			{
+				"name": "Huntington disease",
+				"experiences": "topic"
+			},
+			{
+				"name": "Neurodegenerative diseases",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=4H7buskAAAAJ"
+		]
+	},
+	{
+		"id": "gs_95",
+		"name": "Nguyen T. K. Thanh",
+		"names": [
+			"Nguyen T. K. Thanh FRSC FInstP FRSB FIMMM"
+		],
+		"entities": [
+			{
+				"name": "Professor of Nanomaterials",
+				"experiences": "profession"
+			},
+			{
+				"name": "Nanomaterials",
+				"experiences": "topic"
+			},
+			{
+				"name": "nanomaterials for biomolecular and biomedical sciences and nanotechnology",
+				"experiences": "topic"
+			},
+			{
+				"name": "Great Britain",
+				"experiences": "location"
+			}
+		],
+		"source_urls": [
+			"https://ntk-thanh.co.uk",
+			"https://scholar.google.com/citations?user=pK_qvc0AAAAJ"
+		]
+	},
+	{
+		"id": "gs_96",
+		"name": "Quyen G To",
+		"entities": [
+			{
+				"name": "Central Queensland University",
+				"experiences": "organization"
+			},
+			{
+				"name": "Deep Learning",
+				"experiences": "topic"
+			},
+			{
+				"name": "Health Promotion",
+				"experiences": "topic"
+			},
+			{
+				"name": "Epidemiology",
+				"experiences": "topic"
+			},
+			{
+				"name": "Data analysis",
+				"experiences": "topic"
+			},
+			{
+				"name": "Physical activity",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://staff-profiles.cqu.edu.au/home/view/23561",
+			"https://scholar.google.com/citations?user=MtSMW5MAAAAJ"
+		]
+	},
+	{
+		"id": "gs_97",
+		"name": "Cam Nguyen",
+		"entities": [
+			{
+				"name": "Texas A&M University",
+				"experiences": "organization"
+			},
+			{
+				"name": "Professor of Electrical and Computer Engineering",
+				"experiences": "profession"
+			},
+			{
+				"name": "microwave and millimeter wave integrated circuits and systems",
+				"experiences": "topic"
+			},
+			{
+				"name": "RF",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://engineering.tamu.edu/electrical/profiles/cnguyen.html",
+			"https://scholar.google.com/citations?user=hIL52f8AAAAJ"
+		]
+	},
+	{
+		"id": "gs_98",
+		"name": "H. Nguyen-Xuan",
+		"entities": [
+			{
+				"name": "CIRTech Institute, HUTECH University",
+				"experiences": "organization"
+			},
+			{
+				"name": "Renewable Energy",
+				"experiences": "topic"
+			},
+			{
+				"name": "3D Printing",
+				"experiences": "topic"
+			},
+			{
+				"name": "Large-scale Data",
+				"experiences": "topic"
+			},
+			{
+				"name": "Computational Engineering",
+				"experiences": "topic"
+			},
+			{
+				"name": "Vietnam",
+				"experiences": "location"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=3iK9h-gAAAAJ"
+		]
+	},
+	{
+		"id": "gs_99",
+		"name": "Cam Nguyen",
+		"entities": [
+			{
+				"name": "Texas A&M University",
+				"experiences": "organization"
+			},
+			{
+				"name": "Professor of Electrical and Computer Engineering",
+				"experiences": "profession"
+			},
+			{
+				"name": "microwave and millimeter wave integrated circuits and systems",
+				"experiences": "topic"
+			},
+			{
+				"name": "RF",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://engineering.tamu.edu/electrical/profiles/cnguyen.html",
+			"https://scholar.google.com/citations?user=hIL52f8AAAAJ"
+		]
+	},
+	{
+		"id": "gs_100",
+		"name": "Cao-Thang Dinh",
+		"entities": [
+			{
+				"name": "Queen's University",
+				"experiences": "organization"
+			},
+			{
+				"name": "Assistant Professor",
+				"experiences": "profession"
+			},
+			{
+				"name": "catalysis",
+				"experiences": "topic"
+			},
+			{
+				"name": "electrochemical systems",
+				"experiences": "topic"
+			},
+			{
+				"name": "CO2 conversion",
+				"experiences": "topic"
+			},
+			{
+				"name": "renewable fuels and chemicals",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=SpJXjD4AAAAJ",
+			"https://smithengineering.queensu.ca/directory/faculty/cao-thang-dinh"
+		]
+	},
+	{
+		"id": "gs_101",
+		"name": "Anh Tuan Phan",
+		"entities": [
+			{
+				"name": "Nanyang Technological University",
+				"experiences": "organization"
+			},
+			{
+				"name": "Nucleic Acids",
+				"experiences": "topic"
+			},
+			{
+				"name": "Biophysics",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=DEJscmgAAAAJ",
+			"https://personal.ntu.edu.sg/phantuan/"
+		]
+	},
+	{
+		"id": "gs_102",
+		"name": "Nguyen T. K. Thanh",
+		"names": [
+			"Nguyen T. K. Thanh FRSC FInstP FRSB FIMMM"
+		],
+		"entities": [
+			{
+				"name": "Professor of Nanomaterials",
+				"experiences": "profession"
+			},
+			{
+				"name": "Nanomaterials",
+				"experiences": "topic"
+			},
+			{
+				"name": "nanomaterials for biomolecular and biomedical sciences and nanotechnology",
+				"experiences": "topic"
+			},
+			{
+				"name": "Great Britain",
+				"experiences": "location"
+			}
+		],
+		"source_urls": [
+			"https://ntk-thanh.co.uk",
+			"https://scholar.google.com/citations?user=pK_qvc0AAAAJ"
+		]
+	},
+	{
+		"id": "gs_103",
+		"name": "Cuong Pham-Huu",
+		"entities": [
+			{
+				"name": "Université de Strasbourg",
+				"experiences": "organization"
+			},
+			{
+				"name": "CNRS",
+				"experiences": "organization"
+			},
+			{
+				"name": "ICPEES",
+				"experiences": "organization"
+			},
+			{
+				"name": "Researcher",
+				"experiences": "profession"
+			},
+			{
+				"name": "Power-to-Gas",
+				"experiences": "topic"
+			},
+			{
+				"name": "Carbon materials",
+				"experiences": "topic"
+			},
+			{
+				"name": "Silicon carbide",
+				"experiences": "topic"
+			},
+			{
+				"name": "Heterogeneous catalysis",
+				"experiences": "topic"
+			},
+			{
+				"name": "Induction heating",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=t-7F8s4AAAAJ"
+		]
+	},
+	{
+		"id": "gs_104",
+		"name": "Nguyen-Thoi Trung",
+		"entities": [
+			{
+				"name": "Institute for Computational Science and Artificial Intelligence, Van Lang University, Vietnam",
+				"experiences": "organization"
+			},
+			{
+				"name": "Computational Mechanics",
+				"experiences": "topic"
+			},
+			{
+				"name": "Structural optimization",
+				"experiences": "topic"
+			},
+			{
+				"name": "Reliability Analysis",
+				"experiences": "topic"
+			},
+			{
+				"name": "Structural Health Monitoring",
+				"experiences": "topic"
+			},
+			{
+				"name": "Artificial Intelligence",
+				"experiences": "topic"
+			},
+			{
+				"name": "Vietnam",
+				"experiences": "location"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=hE7o5mMAAAAJ"
+		]
+	},
+	{
+		"id": "gs_105",
+		"name": "tuan nguyen",
+		"entities": [
+			{
+				"name": "Professor",
+				"experiences": "profession"
+			},
+			{
+				"name": "thuyet tuong doi tong quat ly thuyet truong thong nhat",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=rRJaV9sAAAAJ"
+		]
+	},
+	{
+		"id": "gs_106",
+		"name": "Anh Tuan Phan",
+		"entities": [
+			{
+				"name": "Nanyang Technological University",
+				"experiences": "organization"
+			},
+			{
+				"name": "Nucleic Acids",
+				"experiences": "topic"
+			},
+			{
+				"name": "Biophysics",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=DEJscmgAAAAJ",
+			"https://personal.ntu.edu.sg/phantuan/"
+		]
+	},
+	{
+		"id": "gs_107",
+		"name": "Anh Tuan DINH-XUAN",
+		"entities": [
+			{
+				"name": "Université de Paris",
+				"experiences": "organization"
+			},
+			{
+				"name": "Professor of Physiology and Medicine",
+				"experiences": "profession"
+			},
+			{
+				"name": "Pulmonary Hypertension",
+				"experiences": "topic"
+			},
+			{
+				"name": "Respiratory",
+				"experiences": "topic"
+			},
+			{
+				"name": "Lung Disease",
+				"experiences": "topic"
+			},
+			{
+				"name": "Nitric Oxide",
+				"experiences": "topic"
+			},
+			{
+				"name": "Physiology",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=gwHgyr0AAAAJ"
+		]
+	},
+	{
+		"id": "gs_108",
+		"name": "Hieu Tat Nguyen",
+		"entities": [
+			{
+				"name": "Boeing Research and Technology",
+				"experiences": "organization"
+			},
+			{
+				"name": "Advanced Technologist in Computer Vision",
+				"experiences": "profession"
+			},
+			{
+				"name": "Video Analysis",
+				"experiences": "topic"
+			},
+			{
+				"name": "Computer Vision",
+				"experiences": "topic"
+			},
+			{
+				"name": "Scene Understanding",
+				"experiences": "topic"
+			},
+			{
+				"name": "Machine Learning",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=AYxsmasAAAAJ"
+		]
+	},
+	{
+		"id": "gs_109",
+		"name": "tuan nguyen",
+		"entities": [
+			{
+				"name": "Professor",
+				"experiences": "profession"
+			},
+			{
+				"name": "thuyet tuong doi tong quat ly thuyet truong thong nhat",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=rRJaV9sAAAAJ"
+		]
+	},
+	{
+		"id": "gs_110",
+		"name": "Trung Q. Duong",
+		"entities": [
+			{
+				"name": "Queen's University Belfast",
+				"experiences": "organization"
+			},
+			{
+				"name": "Memorial University of Newfoundland",
+				"experiences": "organization"
+			},
+			{
+				"name": "Chair Professor",
+				"experiences": "profession"
+			},
+			{
+				"name": "Full Professor",
+				"experiences": "profession"
+			},
+			{
+				"name": "6G",
+				"experiences": "topic"
+			},
+			{
+				"name": "Real-time Optimization",
+				"experiences": "topic"
+			},
+			{
+				"name": "Quantum Computing",
+				"experiences": "topic"
+			},
+			{
+				"name": "Physical Layer Security",
+				"experiences": "topic"
+			},
+			{
+				"name": "URLLC",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://pure.qub.ac.uk/en/persons/trung-q-duong",
+			"https://scholar.google.com/citations?user=PwsDdmEAAAAJ"
+		]
+	},
+	{
+		"id": "gs_111",
+		"name": "Seung Hoan Choi",
+		"entities": [
+			{
+				"name": "Boston University",
+				"experiences": "organization"
+			},
+			{
+				"name": "Biostatistics",
+				"experiences": "topic"
+			},
+			{
+				"name": "Statistical Genetics",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=rFdi-hUAAAAJ",
+			"https://www.bu.edu/sph/profile/seung-hoan-choi/"
+		]
+	},
+	{
+		"id": "gs_112",
+		"name": "Anh Tuan DINH-XUAN",
+		"entities": [
+			{
+				"name": "Université de Paris",
+				"experiences": "organization"
+			},
+			{
+				"name": "Professor of Physiology and Medicine",
+				"experiences": "profession"
+			},
+			{
+				"name": "Pulmonary Hypertension",
+				"experiences": "topic"
+			},
+			{
+				"name": "Respiratory",
+				"experiences": "topic"
+			},
+			{
+				"name": "Lung Disease",
+				"experiences": "topic"
+			},
+			{
+				"name": "Nitric Oxide",
+				"experiences": "topic"
+			},
+			{
+				"name": "Physiology",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=gwHgyr0AAAAJ"
+		]
+	},
+	{
+		"id": "gs_113",
+		"name": "Hai Pham",
+		"entities": [
+			{
+				"name": "đại học fpt",
+				"experiences": "organization"
+			},
+			{
+				"name": "đại học fpt",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=MLjcL2cAAAAJ"
+		]
+	},
+	{
+		"id": "gs_114",
+		"name": "Vo V.Anh",
+		"entities": [
+			{
+				"name": "Queensland University of Technology",
+				"experiences": "organization"
+			},
+			{
+				"name": "Emeritus Professor",
+				"experiences": "profession"
+			},
+			{
+				"name": "computational mathematics",
+				"experiences": "topic"
+			},
+			{
+				"name": "stochastic modelling",
+				"experiences": "topic"
+			},
+			{
+				"name": "stochastic analysis",
+				"experiences": "topic"
+			},
+			{
+				"name": "GPO Box 2434, Brisbane, Qld 4001, Australia",
+				"experiences": "location"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=xJ4yHgsAAAAJ",
+			"https://www.qut.edu.au/about/our-people/academic-profiles/v.anh"
+		]
+	},
+	{
+		"id": "gs_115",
+		"name": "Tuan-hua David Ho",
+		"entities": [
+			{
+				"name": "Institute of Plant and Microbial Biology, Academia Sinica",
+				"experiences": "organization"
+			},
+			{
+				"name": "Distinguished Research Fellow",
+				"experiences": "profession"
+			},
+			{
+				"name": "plant hormones and stress biology",
+				"experiences": "topic"
+			},
+			{
+				"name": "Molecular biology",
+				"experiences": "topic"
+			},
+			{
+				"name": "Plant biology",
+				"experiences": "topic"
+			},
+			{
+				"name": "Biofuels",
+				"experiences": "topic"
+			},
+			{
+				"name": "Microbial enzymes",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=8VYxE6oAAAAJ",
+			"https://biology.wustl.edu/people/tuan-hua-david-ho"
+		]
+	},
+	{
+		"id": "gs_116",
+		"name": "Vo V.Anh",
+		"entities": [
+			{
+				"name": "Queensland University of Technology",
+				"experiences": "organization"
+			},
+			{
+				"name": "Emeritus Professor",
+				"experiences": "profession"
+			},
+			{
+				"name": "computational mathematics",
+				"experiences": "topic"
+			},
+			{
+				"name": "stochastic modelling",
+				"experiences": "topic"
+			},
+			{
+				"name": "stochastic analysis",
+				"experiences": "topic"
+			},
+			{
+				"name": "GPO Box 2434, Brisbane, Qld 4001, Australia",
+				"experiences": "location"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=xJ4yHgsAAAAJ",
+			"https://www.qut.edu.au/about/our-people/academic-profiles/v.anh"
+		]
+	},
+	{
+		"id": "gs_117",
+		"name": "Bach Nguyen",
+		"entities": [
+			{
+				"name": "Pharmacy",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=2o1r0mIAAAAJ"
+		]
+	},
+	{
+		"id": "gs_118",
+		"name": "Quyen G To",
+		"entities": [
+			{
+				"name": "Central Queensland University",
+				"experiences": "organization"
+			},
+			{
+				"name": "Deep Learning",
+				"experiences": "topic"
+			},
+			{
+				"name": "Health Promotion",
+				"experiences": "topic"
+			},
+			{
+				"name": "Epidemiology",
+				"experiences": "topic"
+			},
+			{
+				"name": "Data analysis",
+				"experiences": "topic"
+			},
+			{
+				"name": "Physical activity",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://staff-profiles.cqu.edu.au/home/view/23561",
+			"https://scholar.google.com/citations?user=MtSMW5MAAAAJ"
+		]
+	},
+	{
+		"id": "gs_119",
+		"name": "ngoc nguyen",
+		"entities": [
+			{
+				"name": "music",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=FAhzbvkAAAAJ"
+		]
+	},
+	{
+		"id": "gs_120",
+		"name": "Bach Nguyen",
+		"entities": [
+			{
+				"name": "Pharmacy",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=2o1r0mIAAAAJ"
+		]
+	},
+	{
+		"id": "gs_121",
+		"name": "Nguyen-Thoi Trung",
+		"entities": [
+			{
+				"name": "Institute for Computational Science and Artificial Intelligence, Van Lang University, Vietnam",
+				"experiences": "organization"
+			},
+			{
+				"name": "Computational Mechanics",
+				"experiences": "topic"
+			},
+			{
+				"name": "Structural optimization",
+				"experiences": "topic"
+			},
+			{
+				"name": "Reliability Analysis",
+				"experiences": "topic"
+			},
+			{
+				"name": "Structural Health Monitoring",
+				"experiences": "topic"
+			},
+			{
+				"name": "Artificial Intelligence",
+				"experiences": "topic"
+			},
+			{
+				"name": "Vietnam",
+				"experiences": "location"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=hE7o5mMAAAAJ"
+		]
+	},
+	{
+		"id": "gs_122",
+		"name": "Thanh Hoang Nguyen",
+		"entities": [
+			{
+				"name": "University of Utah",
+				"experiences": "organization"
+			},
+			{
+				"name": "Machine Learning",
+				"experiences": "topic"
+			},
+			{
+				"name": "Data Mining",
+				"experiences": "topic"
+			},
+			{
+				"name": "Web Mining",
+				"experiences": "topic"
+			},
+			{
+				"name": "Knowledge-base",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=GucaTBQAAAAJ"
+		]
+	},
+	{
+		"id": "gs_123",
+		"name": "Thanh Hoang Nguyen",
+		"entities": [
+			{
+				"name": "University of Utah",
+				"experiences": "organization"
+			},
+			{
+				"name": "Machine Learning",
+				"experiences": "topic"
+			},
+			{
+				"name": "Data Mining",
+				"experiences": "topic"
+			},
+			{
+				"name": "Web Mining",
+				"experiences": "topic"
+			},
+			{
+				"name": "Knowledge-base",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=GucaTBQAAAAJ"
+		]
+	},
+	{
+		"id": "gs_124",
+		"name": "Huu Phuc Nguyen",
+		"entities": [
+			{
+				"name": "University of Tuebingen",
+				"experiences": "organization"
+			},
+			{
+				"name": "Institute of Medical Genetics and Applied Genomics",
+				"experiences": "organization"
+			},
+			{
+				"name": "neuroscience",
+				"experiences": "topic"
+			},
+			{
+				"name": "polyglutamine diseases",
+				"experiences": "topic"
+			},
+			{
+				"name": "Huntington disease",
+				"experiences": "topic"
+			},
+			{
+				"name": "Neurodegenerative diseases",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=4H7buskAAAAJ"
+		]
+	},
+	{
+		"id": "gs_125",
+		"name": "Tuyến Nguyễn Văn",
+		"entities": [
+			{
+				"name": "Institute of Chemistry, VAST",
+				"experiences": "organization"
+			},
+			{
+				"name": "Professor of Chemistry",
+				"experiences": "profession"
+			},
+			{
+				"name": "organic chemistry and bioorganic chemistry",
+				"experiences": "topic"
+			},
+			{
+				"name": "Medicinal Chemistry",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=YcltMKcAAAAJ"
+		]
+	},
+	{
+		"id": "gs_126",
+		"name": "Nguyen Ngoc Minh Tuan",
+		"entities": [
+			{
+				"name": "Hungvuong University of Phutho",
+				"experiences": "organization"
+			},
+			{
+				"name": "General Hospital of Phutho, Vietnam",
+				"experiences": "organization"
+			},
+			{
+				"name": "Researcher",
+				"experiences": "profession"
+			},
+			{
+				"name": "Lecturer",
+				"experiences": "profession"
+			},
+			{
+				"name": "Microbiology",
+				"experiences": "topic"
+			},
+			{
+				"name": "Antibiotic Resistance",
+				"experiences": "topic"
+			},
+			{
+				"name": "Molecular Biology",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=VSB_GoUAAAAJ"
+		]
+	},
+	{
+		"id": "gs_127",
+		"name": "Anh V. Nguyen",
+		"names": [
+			"Anh Nguyen"
+		],
+		"entities": [
+			{
+				"name": "University of Queensland",
+				"experiences": "organization"
+			},
+			{
+				"name": "Flotation",
+				"experiences": "topic"
+			},
+			{
+				"name": "coal and minerals",
+				"experiences": "topic"
+			},
+			{
+				"name": "nanobubbles",
+				"experiences": "topic"
+			},
+			{
+				"name": "hydrophobic attraction",
+				"experiences": "topic"
+			},
+			{
+				"name": "colloid and surface chemistry",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=90_-aVUAAAAJ",
+			"https://researchers.uq.edu.au/researcher/1790"
+		]
+	},
+	{
+		"id": "gs_128",
+		"name": "Van Giai Nguyen",
+		"entities": [
+			{
+				"name": "IPN Orsay",
+				"experiences": "organization"
+			},
+			{
+				"name": "Nuclear Theory",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=eIbLoCEAAAAJ"
+		]
+	},
+	{
+		"id": "gs_129",
+		"name": "Nguyen Thi Phuong Thao",
+		"entities": [
+			{
+				"name": "Ton Duc Thang university",
+				"experiences": "organization"
+			},
+			{
+				"name": "LED",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=hnS8fnUAAAAJ",
+			"https://feee.tdtu.edu.vn/nhan-su/ts-nguyen-thi-phuong-thao"
+		]
+	},
+	{
+		"id": "gs_130",
+		"name": "Nguyen Anh Hong Ngoc",
+		"entities": [
+			{
+				"name": "Can Tho University of Medicine and Pharmacy",
+				"experiences": "organization"
+			},
+			{
+				"name": "Chuyển hóa năng lượng tế bào",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=aUzEs0cAAAAJ"
+		]
+	},
+	{
+		"id": "gs_131",
+		"name": "Manh-Huong Phan",
+		"entities": [
+			{
+				"name": "University of South Florida",
+				"experiences": "organization"
+			},
+			{
+				"name": "Professor of Physics",
+				"experiences": "profession"
+			},
+			{
+				"name": "quantum materials and devices",
+				"experiences": "topic"
+			},
+			{
+				"name": "Nanobiosensors",
+				"experiences": "topic"
+			},
+			{
+				"name": "Nanospintronics",
+				"experiences": "topic"
+			},
+			{
+				"name": "Nanomagnetism",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=wW9PXIcAAAAJ",
+			"http://shell.cas.usf.edu/~phanm/"
+		]
+	},
+	{
+		"id": "gs_132",
+		"name": "Nguyen Anh Hong Ngoc",
+		"entities": [
+			{
+				"name": "Can Tho University of Medicine and Pharmacy",
+				"experiences": "organization"
+			},
+			{
+				"name": "Chuyển hóa năng lượng tế bào",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=aUzEs0cAAAAJ"
+		]
+	},
+	{
+		"id": "gs_133",
+		"name": "Thanh-Hai Nguyen",
+		"entities": [
+			{
+				"name": "CEA, LIST",
+				"experiences": "organization"
+			},
+			{
+				"name": "Research Engineer",
+				"experiences": "profession"
+			},
+			{
+				"name": "applied graph theory",
+				"experiences": "topic"
+			},
+			{
+				"name": "homomorphic encryption",
+				"experiences": "topic"
+			},
+			{
+				"name": "polygon partitioning",
+				"experiences": "topic"
+			},
+			{
+				"name": "linear programming",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=Z2dv9ooAAAAJ"
+		]
+	},
+	{
+		"id": "gs_134",
+		"name": "Anh V. Nguyen",
+		"names": [
+			"Anh Nguyen"
+		],
+		"entities": [
+			{
+				"name": "University of Queensland",
+				"experiences": "organization"
+			},
+			{
+				"name": "Flotation",
+				"experiences": "topic"
+			},
+			{
+				"name": "coal and minerals",
+				"experiences": "topic"
+			},
+			{
+				"name": "nanobubbles",
+				"experiences": "topic"
+			},
+			{
+				"name": "hydrophobic attraction",
+				"experiences": "topic"
+			},
+			{
+				"name": "colloid and surface chemistry",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=90_-aVUAAAAJ",
+			"https://researchers.uq.edu.au/researcher/1790"
+		]
+	},
+	{
+		"id": "gs_135",
+		"name": "Tho Le-Ngoc",
+		"entities": [
+			{
+				"name": "Wireless",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=YGROoJMAAAAJ",
+			"https://www.mcgill.ca/tised/tho-le-ngoc"
+		]
+	},
+	{
+		"id": "gs_136",
+		"name": "Danh V. Nguyen",
+		"entities": [
+			{
+				"name": "Dept. Medicine (Biostatistics), UC Irvine",
+				"experiences": "organization"
+			},
+			{
+				"name": "Professor",
+				"experiences": "profession"
+			},
+			{
+				"name": "Clinical & Translational Science",
+				"experiences": "topic"
+			},
+			{
+				"name": "Clinical Trials",
+				"experiences": "topic"
+			},
+			{
+				"name": "Fragile X",
+				"experiences": "topic"
+			},
+			{
+				"name": "Nephrology",
+				"experiences": "topic"
+			},
+			{
+				"name": "Biostatistics",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=NiQq4REAAAAJ"
+		]
+	},
+	{
+		"id": "gs_137",
+		"name": "Thanh Tra Nguyen",
+		"entities": [
+			{
+				"name": "ESRF - The European Synchrotron",
+				"experiences": "organization"
+			},
+			{
+				"name": "semiconductors",
+				"experiences": "topic"
+			},
+			{
+				"name": "microelectronics",
+				"experiences": "topic"
+			},
+			{
+				"name": "thin film",
+				"experiences": "topic"
+			},
+			{
+				"name": "X-ray spectroscopy",
+				"experiences": "topic"
+			},
+			{
+				"name": "X-ray diffraction",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=QowALgEAAAAJ"
+		]
+	},
+	{
+		"id": "gs_138",
+		"name": "Hien Quoc Ngo",
+		"entities": [
+			{
+				"name": "Queen's University Belfast, UK",
+				"experiences": "organization"
+			},
+			{
+				"name": "Reader",
+				"experiences": "profession"
+			},
+			{
+				"name": "Cell-Free Massive MIMO",
+				"experiences": "topic"
+			},
+			{
+				"name": "Massive MIMO Systems",
+				"experiences": "topic"
+			},
+			{
+				"name": "Wireless Communication",
+				"experiences": "topic"
+			},
+			{
+				"name": "Information Theory",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=DbMdragAAAAJ"
+		]
+	},
+	{
+		"id": "gs_139",
+		"name": "Hieu Tat Nguyen",
+		"entities": [
+			{
+				"name": "Boeing Research and Technology",
+				"experiences": "organization"
+			},
+			{
+				"name": "Advanced Technologist in Computer Vision",
+				"experiences": "profession"
+			},
+			{
+				"name": "Video Analysis",
+				"experiences": "topic"
+			},
+			{
+				"name": "Computer Vision",
+				"experiences": "topic"
+			},
+			{
+				"name": "Scene Understanding",
+				"experiences": "topic"
+			},
+			{
+				"name": "Machine Learning",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=AYxsmasAAAAJ"
+		]
+	},
+	{
+		"id": "gs_140",
+		"name": "Quang Le",
+		"entities": [
+			{
+				"name": "University of Portsmouth",
+				"experiences": "organization"
+			},
+			{
+				"name": "statistics",
+				"experiences": "topic"
+			},
+			{
+				"name": "GWAS",
+				"experiences": "topic"
+			},
+			{
+				"name": "Genomes",
+				"experiences": "topic"
+			},
+			{
+				"name": "Bioinformatics",
+				"experiences": "topic"
+			},
+			{
+				"name": "Genetics",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=Q7Q-7f8AAAAJ"
+		]
+	},
+	{
+		"id": "gs_141",
+		"name": "Du Tran",
+		"entities": [
+			{
+				"name": "Samsung Research America",
+				"experiences": "organization"
+			},
+			{
+				"name": "Machine Learning",
+				"experiences": "topic"
+			},
+			{
+				"name": "Computer Vision",
+				"experiences": "topic"
+			}
+		],
+		"source_urls": [
+			"https://scholar.google.com/citations?user=3TVbh8QAAAAJ"
+		]
+	}
+]
